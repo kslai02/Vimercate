@@ -1,0 +1,1318 @@
+{
+  "startSceneId": "n31eqzd5",
+  "pinSize": 70,
+  "labelSize": 12,
+  "defaultIconId": "builtin-pin",
+  "icons": {
+    "builtin-pin": null
+  },
+  "scenes": [
+    {
+      "id": "tu99z8g2",
+      "name": "Map - Vimercate",
+      "image": "images/scene-tu99z8g2.png",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": false,
+        "targetSceneId": null,
+        "iconId": null
+      },
+      "markers": [
+        {
+          "id": "g1uahauv",
+          "type": "pin",
+          "x": 0.35567578422308466,
+          "y": 0.6570531003940755,
+          "points": [
+            {
+              "x": 0.27567578422308464,
+              "y": 0.5770531003940755
+            },
+            {
+              "x": 0.43567578422308467,
+              "y": 0.5770531003940755
+            },
+            {
+              "x": 0.43567578422308467,
+              "y": 0.7370531003940755
+            },
+            {
+              "x": 0.27567578422308464,
+              "y": 0.7370531003940755
+            }
+          ],
+          "label": "MUST",
+          "targetSceneId": "2qpw93no",
+          "iconId": null,
+          "pinSize": 60,
+          "labelScale": 1
+        },
+        {
+          "id": "v1mo51z8",
+          "type": "pin",
+          "x": 0.43205564091331655,
+          "y": 0.37512909767509767,
+          "points": [],
+          "label": "Above Saint Stefano Church",
+          "targetSceneId": "3cdkiios",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        },
+        {
+          "id": "e0xrgp7r",
+          "type": "pin",
+          "x": 0.5153423019626617,
+          "y": 0.5063003416317063,
+          "points": [],
+          "label": "Facade of Saint Antonio Church",
+          "targetSceneId": "wzpnkie9",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        },
+        {
+          "id": "p26ie0z0",
+          "type": "pin",
+          "x": 0.29470570865650175,
+          "y": 0.5176616304783418,
+          "points": [],
+          "label": "Municipo Di Vimercate",
+          "targetSceneId": null,
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        },
+        {
+          "id": "voq0pphq",
+          "type": "pin",
+          "x": 0.3874899714044564,
+          "y": 0.05701300996930654,
+          "points": [],
+          "label": "Parco Gussi",
+          "targetSceneId": "ib5l6ucc",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        }
+      ]
+    },
+    {
+      "id": "2qpw93no",
+      "name": "MUST / Villa Sottocasa",
+      "image": "images/scene-2qpw93no.png",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": true,
+          "targetSceneId": "sysdc99i",
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map - Vimercate",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "sysdc99i",
+      "name": "Parco Trotti #1",
+      "image": "images/scene-sysdc99i.png",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": true,
+          "targetSceneId": "2qpw93no",
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Vimercate",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": [
+        {
+          "id": "i1siuhh6",
+          "type": "pin",
+          "x": 0.3807560590812571,
+          "y": 0.5448454545562472,
+          "points": [],
+          "label": "Municipio di Vimercate",
+          "targetSceneId": "8zi6g2uj",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        }
+      ]
+    },
+    {
+      "id": "h7k9saw6",
+      "name": "Scene 4",
+      "image": "images/scene-h7k9saw6.png",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": null,
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "8zi6g2uj",
+      "name": "Parco Trotti #2 - Municipio di Vimercate",
+      "image": "images/scene-8zi6g2uj.png",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": true,
+          "targetSceneId": "dyxgurtj",
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": true,
+          "targetSceneId": "sysdc99i",
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": true,
+          "targetSceneId": "ci0ylox9",
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": [
+        {
+          "id": "yfkr7t65",
+          "type": "pin",
+          "x": 0.4455718829571484,
+          "y": 0.47047854305153264,
+          "points": [],
+          "label": "Bell Tower of Santuario della Beata Vergine del Rosario",
+          "targetSceneId": null,
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        },
+        {
+          "id": "gclghlqy",
+          "type": "pin",
+          "x": 0.6803903307705939,
+          "y": 0.5129479846955646,
+          "points": [],
+          "label": "Bell Tower of Saint Stefano",
+          "targetSceneId": null,
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        }
+      ]
+    },
+    {
+      "id": "dyxgurtj",
+      "name": "Parco Trotti #3 - Municipio di Vimercate",
+      "image": "images/scene-dyxgurtj.png",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": true,
+          "targetSceneId": "8zi6g2uj",
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": null,
+        "iconId": null
+      },
+      "markers": [
+        {
+          "id": "r7djqr0k",
+          "type": "pin",
+          "x": 0.5145966014018903,
+          "y": 0.6572292856090396,
+          "points": [],
+          "label": "Via Cesare Battisti",
+          "targetSceneId": null,
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        }
+      ]
+    },
+    {
+      "id": "z16rke4i",
+      "name": "External Facade of Minicipio Di Vimercate",
+      "image": "images/scene-z16rke4i.png",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": true,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "3cdkiios",
+      "name": "Above Saint Stefano Church",
+      "image": "images/scene-3cdkiios.png",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "9jbc5uwj",
+      "name": "G/F Plan - Saint Stefano Church",
+      "image": "images/scene-9jbc5uwj.png",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Attic Plan",
+          "enabled": true,
+          "targetSceneId": "n31eqzd5",
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": [
+        {
+          "id": "ps71kyzc",
+          "type": "pin",
+          "x": 0.23124709812222025,
+          "y": 0.700435031953364,
+          "points": [],
+          "label": "Void of the Bell Tower Staircase",
+          "targetSceneId": "3bqeunlf",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        },
+        {
+          "id": "q6uucxqn",
+          "type": "pin",
+          "x": 0.21953035035643148,
+          "y": 0.7781230349607393,
+          "points": [],
+          "label": "Bell Tower Corridor #1",
+          "targetSceneId": "zspldx7b",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        },
+        {
+          "id": "nsfmvwgv",
+          "type": "pin",
+          "x": 0.1836478103237034,
+          "y": 0.7625854343592643,
+          "points": [],
+          "label": "Stairs to the Corridor",
+          "targetSceneId": "299j2ooc",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        }
+      ]
+    },
+    {
+      "id": "n31eqzd5",
+      "name": "Attic Plan - Saint Stefano Church",
+      "image": "images/scene-n31eqzd5.png",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "G/F Plan",
+          "enabled": true,
+          "targetSceneId": "9jbc5uwj",
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": [
+        {
+          "id": "z68wlzwu",
+          "type": "pin",
+          "x": 0.5270949792083865,
+          "y": 0.8091982361636896,
+          "points": [],
+          "label": "View Outside Church",
+          "targetSceneId": "3cdkiios",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        },
+        {
+          "id": "vuec0beq",
+          "type": "pin",
+          "x": 0.2700588250963955,
+          "y": 0.6092811084247101,
+          "points": [],
+          "label": "Roof Structure",
+          "targetSceneId": null,
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        },
+        {
+          "id": "rt953sjt",
+          "type": "pin",
+          "x": 0.7182244271378158,
+          "y": 0.6848974313518889,
+          "points": [],
+          "label": "Above the Ancient Church",
+          "targetSceneId": "eu3qxd8o",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        }
+      ]
+    },
+    {
+      "id": "ci0ylox9",
+      "name": "Parco Trotti #4 - Stone With Text",
+      "image": "images/scene-ci0ylox9.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": true,
+          "targetSceneId": "8zi6g2uj",
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": null,
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "wzpnkie9",
+      "name": "Facade of Saint Antonio Church",
+      "image": "images/scene-wzpnkie9.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "iyl64u1e",
+      "name": "Internal Facade of Minicipio di Vimercate",
+      "image": "images/scene-iyl64u1e.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": true,
+          "targetSceneId": "z16rke4i",
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "k6ze2nq0",
+      "name": "Santuario della Beata Vergine del Rosario",
+      "image": "images/scene-k6ze2nq0.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": true,
+          "targetSceneId": "z16rke4i",
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": [
+        {
+          "id": "62gty4lq",
+          "type": "pin",
+          "x": 0.11433791352493719,
+          "y": 0.7304743931162158,
+          "points": [],
+          "label": "Pin 1",
+          "targetSceneId": null,
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        }
+      ]
+    },
+    {
+      "id": "q7mubgn5",
+      "name": "Ancient Stone Wall Surrounding Piazza Unità d'Italia",
+      "image": "images/scene-q7mubgn5.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": true,
+          "targetSceneId": "k6ze2nq0",
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "ib5l6ucc",
+      "name": "In front of Parco Gussi",
+      "image": "images/scene-ib5l6ucc.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "76gx3f84",
+      "name": "Roof System of Saint Stefano Church",
+      "image": "images/scene-76gx3f84.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Ground of Attic",
+          "enabled": true,
+          "targetSceneId": "wqe094ua",
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": true,
+          "targetSceneId": "3cdkiios",
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "n31eqzd5",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "3bqeunlf",
+      "name": "Void of the Bell Tower Staircase",
+      "image": "images/scene-3bqeunlf.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "9jbc5uwj",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "wqe094ua",
+      "name": "Ground of the Attic",
+      "image": "images/scene-wqe094ua.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": true,
+          "targetSceneId": "eu3qxd8o",
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "n31eqzd5",
+        "iconId": null
+      },
+      "markers": [
+        {
+          "id": "8zthxvae",
+          "type": "pin",
+          "x": 0.1959800890892146,
+          "y": 0.1876942121046861,
+          "points": [],
+          "label": "Explore the Roof Syatem",
+          "targetSceneId": "76gx3f84",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        }
+      ]
+    },
+    {
+      "id": "zspldx7b",
+      "name": "Bell Tower Corridor #1",
+      "image": "images/scene-zspldx7b.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "9jbc5uwj",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "299j2ooc",
+      "name": "Bell Tower Corridor #2",
+      "image": "images/scene-299j2ooc.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "9jbc5uwj",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "eu3qxd8o",
+      "name": "Attic #2",
+      "image": "images/scene-eu3qxd8o.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": true,
+          "targetSceneId": "wqe094ua",
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "n31eqzd5",
+        "iconId": null
+      },
+      "markers": []
+    }
+  ]
+}
