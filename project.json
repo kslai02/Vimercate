@@ -131,6 +131,42 @@
           "iconId": null,
           "pinSize": null,
           "labelScale": 1
+        },
+        {
+          "id": "cdqjcl1n",
+          "type": "pin",
+          "x": 0.4247497934528477,
+          "y": 0.461888030685768,
+          "points": [],
+          "label": "Roman Courtyard",
+          "targetSceneId": "8jqml37b",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        },
+        {
+          "id": "de0dnwmg",
+          "type": "pin",
+          "x": 0.6636510054101799,
+          "y": 0.608551941251425,
+          "points": [],
+          "label": "San Rocco Bridge",
+          "targetSceneId": "75indrsm",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        },
+        {
+          "id": "v9bo0omi",
+          "type": "pin",
+          "x": 0.3071256493392988,
+          "y": 0.40818011977440066,
+          "points": [],
+          "label": "Ancient Stonne & Brick Wall",
+          "targetSceneId": "q7mubgn5",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
         }
       ]
     },
@@ -149,8 +185,8 @@
         {
           "slot": "forward",
           "label": "Forward",
-          "enabled": false,
-          "targetSceneId": null,
+          "enabled": true,
+          "targetSceneId": "i4lv7w60",
           "iconId": null
         },
         {
@@ -487,8 +523,8 @@
         {
           "slot": "left",
           "label": "Left",
-          "enabled": false,
-          "targetSceneId": null,
+          "enabled": true,
+          "targetSceneId": "wqe094ua",
           "iconId": null
         },
         {
@@ -526,7 +562,20 @@
         "targetSceneId": "tu99z8g2",
         "iconId": null
       },
-      "markers": []
+      "markers": [
+        {
+          "id": "u64o4bap",
+          "type": "pin",
+          "x": 0.4642329516575547,
+          "y": 0.5978868679836283,
+          "points": [],
+          "label": "Roman Courtyard",
+          "targetSceneId": "8jqml37b",
+          "iconId": null,
+          "pinSize": null,
+          "labelScale": 1
+        }
+      ]
     },
     {
       "id": "9jbc5uwj",
@@ -1310,6 +1359,153 @@
         "label": "Map",
         "enabled": true,
         "targetSceneId": "n31eqzd5",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "8jqml37b",
+      "name": "Roman Courtyard",
+      "image": "images/scene-8jqml37b.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "i4lv7w60",
+      "name": "MUST / Re-imagined Defensive Tower",
+      "image": "images/scene-i4lv7w60.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": true,
+          "targetSceneId": "2qpw93no",
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
+        "iconId": null
+      },
+      "markers": []
+    },
+    {
+      "id": "75indrsm",
+      "name": "San Rocco Bridge",
+      "image": "images/scene-75indrsm.jpg",
+      "bottomBar": [
+        {
+          "slot": "left",
+          "label": "Left",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "forward",
+          "label": "Forward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "backward",
+          "label": "Backward",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "rotate",
+          "label": "Rotate",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        },
+        {
+          "slot": "right",
+          "label": "Right",
+          "enabled": false,
+          "targetSceneId": null,
+          "iconId": null
+        }
+      ],
+      "mapButton": {
+        "label": "Map",
+        "enabled": true,
+        "targetSceneId": "tu99z8g2",
         "iconId": null
       },
       "markers": []
